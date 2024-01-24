@@ -20,6 +20,29 @@ https://github.com/madanamaehanai/resume
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=madanamaehanai&margin-w=5)](https://github.com/madanamaehanai/)
 
+# 自己紹介
+
+## 概略
+
+## 好きな○○
+
+
+## リンク
+GitHub :　https://github.com/madanamaehanai
+Qiita :
+競技プログラミング :
+
+<br>
+
+# 技術の経験
+言語：Python, JavaScript, Ruby  
+フレームワーク：Django REST Framework, React, Ruby on Rails  
+DB : MySQL  
+AWS :
+他 : Docker,  
+
+
+
 <!--
 **madanamaehanai/madanamaehanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
