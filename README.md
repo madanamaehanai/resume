@@ -9,7 +9,7 @@
 
 ## リンク
 GitHub : https://github.com/madanamaehanai  
-Qiita :  
+Qiita : https://qiita.com/tuna_mayonezu  
 競技プログラミング :  
   
 <br>
